@@ -1,0 +1,5 @@
+{
+  "name": "OpenCSPaper",
+  "description": "An Apple-style, AI-powered academic paper review platform for CS conferences (KDD, NeurIPS, etc.) featuring agentic workflows for desk rejection, deep review, and rebuttal simulation.",
+  "requestFramePermissions": []
+}
