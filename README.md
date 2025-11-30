@@ -10,7 +10,7 @@
   <p>
     <a href="https://github.com/imbue-bit/OpenCSPaper/issues">报告 Bug</a>
     ·
-    <a href="https://github.com/YOUR_USERNAME/OpenCSPaper/issues">提出新特性</a>
+    <a href="https://github.com/imbue-bit/OpenCSPaper/issues">提出新特性</a>
   </p>
 </div>
 
